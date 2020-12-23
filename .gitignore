@@ -6,6 +6,7 @@
 /examples/basic/basic
 /examples/calculator/calculator
 /examples/sending_arguments/sending_arguments
+/examples
 /**/CMakeLists.txt.user
 /**/CMakeCache.txt
 /**/CMakeCache/*
